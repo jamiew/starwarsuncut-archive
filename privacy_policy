@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<!--
+
+ ____             ____    ______   ____    ____
+/\  _`\   /'\_/`\/\  _`\ /\__  _\ /\  _`\ /\  _`\
+\ \ \L\_\/\      \ \ \L\ \/_/\ \/ \ \ \L\ \ \ \L\_\
+ \ \  _\L\ \ \__\ \ \ ,__/  \ \ \  \ \ ,  /\ \  _\L
+  \ \ \L\ \ \ \_/\ \ \ \/    \_\ \__\ \ \\ \\ \ \L\ \
+   \ \____/\ \_\\ \_\ \_\    /\_____\\ \_\ \_\ \____/   __
+    \/___/  \/_/ \/_/\/_/    \/_____/ \/_/\/ /\/___/   /\ \__
+                         __  __    ___     ___   __  __\ \ ,_\
+                        /\ \/\ \ /' _ `\  /'___\/\ \/\ \\ \ \/
+                        \ \ \_\ \/\ \/\ \/\ \__/\ \ \_\ \\ \ \_
+                         \ \____/\ \_\ \_\ \____\\ \____/ \ \__\
+                          \/___/  \/_/\/_/\/____/ \/___/   \/__/
+
+-->
+<html>
+<head>
+  <title>Privacy Policy - Empire Strikes Back: Uncut - Star Wars Uncut: The Empire Strikes Back</title>
+  <meta name="description" content="Star Wars Uncut is a crazy fan mashup remake of the original Star Wars movies. The saga continues with over 1500 participants re-imagining the classic Star Wars Episode V: The Empire Strikes Back.">
+  <meta name="keywords" content="star wars, star wars uncut, remix, mashup, video, crowdsourcing, crowdsource, fan remake, a new hope, empire strikes back">
+
+  <script type="text/javascript" charset="utf-8">
+    var logged_in = false,
+        current_user = false;
+  </script>
+
+  <link href="http://files.starwarsuncut.com/assets/application-abe03f33d476a3551248230eb3594cc4.css" media="all" rel="stylesheet" type="text/css" />
+  <script src="http://files.starwarsuncut.com/assets/application-4ce138fb013548e4d950313009153385.js" type="text/javascript"></script>
+  
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="18wxDZM/B3W3i8trtctOFmK3ViAt38sjxw1fiMk1YJE=" name="csrf-token" />
+  <script>
+    var logged_in = false;
+    var is_admin = false;
+  </script>
+  <meta property="og:type" content="website" />
+<meta property="fb:admins" content="casey,jamiemwilkinson" />
+<meta property="og:site_name" content="Star Wars Uncut" />
+<meta property="og:description" content="Fans from around the world are joining forces to recreate the classic, Star Wars Episode V: The Empire Strikes Back" />
+<meta property="og:email" content="support@starwarsuncut.com" />
+<meta property="fb:app_id" content="123595910986305"/>
+
+<meta property="og:title" content="Star Wars Uncut: The Empire Strikes Back" />
+<meta property="og:url" content="http://www.starwarsuncut.com" />
+<meta property="og:image" content="http://www.starwarsuncut.com/assets/swu_logo.png" />
+
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9684429-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body>
+
+<div class="header">
+  <ul class="nav">
+    <li><a href="/">Films</a></li>
+    <li><a href="/about">About</a></li>
+    <li><a href="http://eepurl.com/yD2Oj" target="_blank">Subscribe</a></li>
+    <li><a href="http://starwarsuncut.tumblr.com" target="_blank">Blog</a></li>
+    <li><a href="http://twitter.com/starwarsuncut" target="_blank">Twitter</a></li>
+    <li><a href="https://vimeo.com/63830672" target="_blank">Teaser</a></li>
+    
+  </ul>
+  <div class="login">
+    <div>
+      <span><a href="/login">Log in</a> or use</span> <a href="/auth/facebook" class="in"> </a>
+    </div>
+  </div>
+   <div class="social">
+        <div id="twitter"></div>
+      <div id="facebook"></div>
+    </div>
+    <div class="logo"><a href="/empire"><img alt="Empire_logo" src="http://files.starwarsuncut.com/assets/empire_logo-bb4e045e6b12ac33e60bdbd5a89ec868.png" /></a></div>
+    <div class="progress_txt"><span>100%</span> Complete</div>
+    <div class="progress">
+      <div class="complete" style="width:100%"></div>
+    </div>
+</div>
+<div class="header_height"></div>
+
+<div class="announcement">
+</div>
+
+<div class='bg' data-hd='http://files.starwarsuncut.com/assets/film_2/hd/078.jpg'>
+<div class='scene'></div>
+</div>
+<div class='grad-bar'></div>
+<div class='container subpage privacy_policy faq'>
+<h1>Privacy Policy</h1>
+<p>starwarsuncut.com is the official website of Star Wars Uncut. It is designed to provide updated information about Star Wars Uncut and things related to Star Wars Uncut. Our information-collection practices are described below. We are committed to complying with the Children's Online Privacy Protection Act of 1998, and we urge children under age 13 to check with their parents before entering personal information on any website. Also, we strongly recommend that parents discuss with their kids the risks of sharing personal information online.</p>
+<h2>What Information Is Collected?</h2>
+<p>At starwarsuncut.com, it's our policy to create a website that requires minimum collection of information from our visitors. We only request your email address to register with the site in order to offer online activities (such as e-mail announcements of upcoming Star Wars Uncut appearances). starwarsuncut.com may also request additional personal information (e.g., your phone number) only when necessary to participate in an activity (e.g., a contest).</p>
+<h2>Signing up for E-mail Announcements</h2>
+<p>starwarsuncut.com offers visitors the opportunity to sign up to receive periodic e-mail announcements regarding Star Wars Uncut. All personal information collected for starwarsuncut.com is used only to send visitors e-mail announcements. If necessary, it may be transferred, disclosed, or shared with third parties engaged by us specifically to handle the preparation and delivery of such announcements. These third parties may not use it for other purposes and will be under strict orders to maintain the confidentiality of such information.</p>
+<h2>Contests</h2>
+<p>starwarsuncut.com occasionally offers contests and/or requests for submissions of material from the public, which may be entered online. To participate in such an activity, a user is asked to provide his or her name and e-mail address and phone number. All the information collected by starwarsuncut.com is securely maintained and used only for the purpose of conducting such activities.</p>
+<h2>Use of Information</h2>
+<p>starwarsuncut.com uses or may use personally identifiable information that visitors provide for such purposes as sending e-mail announcements and accepting public submissions of materials, and responding to their questions regarding our products and Star Wars Uncut’s activities. starwarsuncut.com does not disclose to third parties personally identifiable information that visitors provide, except that we may occasionally transfer, disclose or share such information with third parties who may be engaged by us specifically to handle and deliver certain online activities (e.g. conducting contests). Such third parties have access to personal information needed to perform their functions, but may not use it for other purposes. Finally, we may also disclose personally identifiable information to third parties in order to comply with law or requests by law enforcement agencies or to protect the rights, property or safety of our website, users of our website and others.</p>
+<h2>Cookies and Log Data</h2>
+<p>Cookies are information files that your web browser places on the hard drive of your computer when you visit a website. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies allow websites to "remember" users activities on a website as well as their visits to a site. At starwarsuncut.com, cookies are used to determine the number of unique visitors to our website over a given period. We do not imbed any personal information into cookies nor do we link or combine information collected through cookies to any personal information that users submit online when participating in our activities. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser.</p>
+<p>Log data collected on the starwarsuncut.com web server is maintained on a confidential basis. starwarsuncut.com uses such aggregate information to improve access to our content based on our visitors' browsers and operating system types, to make our content available to as many visitors as possible. We do not link the log data collected to the personal information that visitors submit online when participating in our activities.</p>
+<h2>General Customer Service</h2>
+<p>starwarsuncut.com does not request that users submit any personal information online (other than email address) for customer service inquiries relating to products offered through the on-line store. We do not sell, transfer or share e-mail addresses with third parties, with the exception that the information may be transferred, disclosed and shared with a third party agent who uses the information solely to handle and manage customer service, but cannot use it for other purposes.</p>
+<h2>Information Received from the starwarsuncut.com Store</h2>
+<p>We do not sell, transfer or share any personal information with outside parties. Finally, we may also disclose personal information about Shop users to third parties in order to comply with law or requests by law enforcement agencies, to enforce the Shop's Terms and Conditions or to protect the rights, property or safety of the Shop's users and others.</p>
+<h2>Security</h2>
+<p>starwarsuncut.com has taken steps to ensure that personally identifiable information collected in the future is secure, including limiting the number of people who have physical access to our database servers as well as electronic security systems and password protections which guard against unauthorized access. starwarsuncut.com provides links to other websites that may have their own information-collection practices. These other websites are governed by their own privacy policies or information collection practices, which may be substantially different from ours. We encourage visitors to other websites to review the privacy policies and information collection practices of those websites.</p>
+</div>
+
+
+<div id="footer">
+  <div class="innards">
+    <div class="grad-bar"></div>
+    <div class="rights">TM & © 2012 Lucasfilm Ltd. All Rights Reserved. <br />Footage Courtesy of Lucasfilm.</div>
+    <ul class="nav">
+      <li><a href="/">Films</a></li>
+      <li><a href="/about">About</a></li>
+      <li><a href="http://eepurl.com/yD2Oj" target="_blank">Subscribe</a></li>
+      <li><a href="/faq">FAQ</a></li>
+      <li><a href="/rules">Rules</a></li>
+      <li><a href="/terms_of_service">Terms</a></a></li>
+      <li><a href="/privacy_policy">Privacy Policy</a></li>
+      <li><a href="/talent_release">Release</a></li>
+    </ul>
+    <div class="brought">
+      <div class="text"><span>Brought to you by</span></div>
+      <a href="http://vhx.tv" target="_blank"><img class="vhx" alt="VHX" src="http://files.starwarsuncut.com/assets/logo_vhx-4c2499777c9f34688cefc90360f6d26b.png"></a>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

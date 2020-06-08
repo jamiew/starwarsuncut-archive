@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<!--
+
+ ____             ____    ______   ____    ____
+/\  _`\   /'\_/`\/\  _`\ /\__  _\ /\  _`\ /\  _`\
+\ \ \L\_\/\      \ \ \L\ \/_/\ \/ \ \ \L\ \ \ \L\_\
+ \ \  _\L\ \ \__\ \ \ ,__/  \ \ \  \ \ ,  /\ \  _\L
+  \ \ \L\ \ \ \_/\ \ \ \/    \_\ \__\ \ \\ \\ \ \L\ \
+   \ \____/\ \_\\ \_\ \_\    /\_____\\ \_\ \_\ \____/   __
+    \/___/  \/_/ \/_/\/_/    \/_____/ \/_/\/ /\/___/   /\ \__
+                         __  __    ___     ___   __  __\ \ ,_\
+                        /\ \/\ \ /' _ `\  /'___\/\ \/\ \\ \ \/
+                        \ \ \_\ \/\ \/\ \/\ \__/\ \ \_\ \\ \ \_
+                         \ \____/\ \_\ \_\ \____\\ \____/ \ \__\
+                          \/___/  \/_/\/_/\/____/ \/___/   \/__/
+
+-->
+<html>
+<head>
+  <title>Star Wars Uncut: The Empire Strikes Back</title>
+  <meta name="description" content="Star Wars Uncut is a crazy fan mashup remake of the original Star Wars movies. The saga continues with over 1500 participants re-imagining the classic Star Wars Episode V: The Empire Strikes Back.">
+  <meta name="keywords" content="star wars, star wars uncut, remix, mashup, video, crowdsourcing, crowdsource, fan remake, a new hope, empire strikes back">
+
+  <script type="text/javascript" charset="utf-8">
+    var logged_in = false,
+        current_user = false;
+  </script>
+
+  <link href="http://files.starwarsuncut.com/assets/application-abe03f33d476a3551248230eb3594cc4.css" media="all" rel="stylesheet" type="text/css" />
+  <script src="http://files.starwarsuncut.com/assets/application-4ce138fb013548e4d950313009153385.js" type="text/javascript"></script>
+  
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="18wxDZM/B3W3i8trtctOFmK3ViAt38sjxw1fiMk1YJE=" name="csrf-token" />
+  <script>
+    var logged_in = false;
+    var is_admin = false;
+  </script>
+  <meta property="og:type" content="website" />
+<meta property="fb:admins" content="casey,jamiemwilkinson" />
+<meta property="og:site_name" content="Star Wars Uncut" />
+<meta property="og:description" content="Fans from around the world are joining forces to recreate the classic, Star Wars Episode V: The Empire Strikes Back" />
+<meta property="og:email" content="support@starwarsuncut.com" />
+<meta property="fb:app_id" content="123595910986305"/>
+
+<meta property="og:title" content="Star Wars Uncut: The Empire Strikes Back" />
+<meta property="og:url" content="http://www.starwarsuncut.com" />
+<meta property="og:image" content="http://www.starwarsuncut.com/assets/swu_logo.png" />
+
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9684429-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body>
+
+<div class="header">
+  <ul class="nav">
+    <li><a href="/">Films</a></li>
+    <li><a href="/about">About</a></li>
+    <li><a href="http://eepurl.com/yD2Oj" target="_blank">Subscribe</a></li>
+    <li><a href="http://starwarsuncut.tumblr.com" target="_blank">Blog</a></li>
+    <li><a href="http://twitter.com/starwarsuncut" target="_blank">Twitter</a></li>
+    <li><a href="https://vimeo.com/63830672" target="_blank">Teaser</a></li>
+    
+  </ul>
+  <div class="login">
+    <div>
+      <span><a href="/login">Log in</a> or use</span> <a href="/auth/facebook" class="in"> </a>
+    </div>
+  </div>
+   <div class="social">
+        <div id="twitter"></div>
+      <div id="facebook"></div>
+    </div>
+    <div class="logo"><a href="/empire"><img alt="Empire_logo" src="http://files.starwarsuncut.com/assets/empire_logo-bb4e045e6b12ac33e60bdbd5a89ec868.png" /></a></div>
+    <div class="progress_txt"><span>100%</span> Complete</div>
+    <div class="progress">
+      <div class="complete" style="width:100%"></div>
+    </div>
+</div>
+<div class="header_height"></div>
+
+<div class="announcement">
+</div>
+
+<div class="bg" data-hd="http://files.starwarsuncut.com/assets/film_2/hd/147.jpg">
+  <div class="scene"></div>
+</div>
+<div class="grad-bar"></div>
+<div class="container subpage faq">
+
+<h1>Talent Release</h1>
+
+
+<p>For good and valuable consideration, the sufficiency and receipt of which is hereby acknowledged, and in connection with my participation in the crowd-sourced fan-generated project (the “ESB Uncut Project”) consisting of the retelling of the motion picture STAR WARS: EPISODE V – THE EMPIRE STRIKES BACK (the “Original Film”), I hereby grant to Omnicut, Inc. (the “Producer”) an exclusive, worldwide, royalty-free irrevocable license in all rights, titles and interests of every kind and nature now or hereafter known, in the audiovisual production created by me (“My Work”) based on the Original Film in connection with the ESB Uncut Project. Without in any way limiting the foregoing, I acknowledge and agree that the Original Film is owned solely and exclusively by the author(s) and/or copyright proprietor(s) of such Original Film (collectively, the “Copyright Owner”).
+  </p>
+  <p>
+Without limitation, the grant of rights made above includes the right of the Producer and the Copyright Owner to use, re-use, publish, and re-publish My Work in connection with the ESB Uncut Project or other projects and/or productions, and in connection with the advertising, publicizing, exhibiting and exploiting of the ESB Uncut Project, in whole or in part, in any language (subtitled, dubbed, or otherwise), by any and all means, media, devices, processes and technology, whether now or hereafter known or devised, in perpetuity, throughout the universe. The Producer and the Copyright Owner shall have all cutting and editing rights with respect to My Work, including, but not limited to the right to make, or authorize others to make, such cuts, alterations, translations and variations of and in the title, subtitles and/or any part of My Work, including the dubbing, subtitling, voice-over or otherwise in other languages, as it may in its sole and absolute discretion think necessary or desirable for the effective distribution and exploitation of the ESB Uncut Project.
+
+<p>
+I further hereby grant the Producer and Copyright Owner the right to use my name, image, voice and likeness in connection with the ESB Uncut Project if they so choose; specifically, I acknowledge that my name, image, voice and likeness may be distributed, published and displayed on websites, advertisements and elsewhere, and I expressly consent to such use. Nothing contained herein shall be deemed to obligate the Producer or the Copyright Owner to make any use whatsoever of any of My Work for the uses contemplated herein or otherwise.
+</p>
+
+<p>
+I acknowledge that as “fan fiction”, My Work is derived from and legally dependent upon the copyright of the Original Film, to which I have no rights, or the license or authorization to create derivative work. Without limitation, I shall acquire no copyright or other ownership of the Original Film as the result of my activities hereunder. Any violation by me of any of these provisions or any unauthorized or improper use by me of any of the Original Film shall entitle the Copyright Owner to pursue all legal and equitable rights and remedies available to it. Accordingly, I acknowledge and agree that My Work will be considered a work made for hire for the benefit of the Copyright Owner; in the alternative, if My Work is determined not to be a work made for hire, it will be deemed and is hereby transferred and assigned exclusively and perpetually to the Copyright Owner by this Release, together with all worldwide rights, titles and interests of every kind and nature now or hereafter known in My Work, including but not limited to (a) all copyrights therein for the full term of such copyrights, including any periods of extension or renewal, (b) the right of reproduction of My Work in any and all media whether now known and/or hereafter devised, in whole or in part, including but not limited to any characters or figures depicted or developed therein for any purpose whatsoever, (c) the moral rights of authors or artists in My Work in whole or in part pursuant to Section 982 of the California Civil Code or pursuant to any similar laws, regulations or statutes whatsoever, (d) all rights of manufacture, merchandising, recordation, reproduction, translation, adaptation, display and exhibition of My Work in whole or in part, by any and all means and in any manner, whether now known and/or hereafter devised, and (e) the right to sell, lease, rent, auction and/or otherwise dispose of My Work in any manner. As between the Producer and me, My Work shall be the sole property of the Producer, free from any claims by me or any other person; and the Producer shall have the exclusive right to copyright My Work in his/her name and to secure any and all renewals and extensions of such copyright throughout the world. I agree to execute and deliver to the Producer such instruments of transfer and other documents regarding the rights in My Work as the Producer may reasonably request to carry out the purposes of this agreement.
+</p>
+
+<p>
+I hereby warrant and represent that: (a) My Work is original to me and has not been copied in whole or in part; (b) My Work does not infringe the rights of any third party; (c) there are no other persons or entities from whom (or which) a license, release or clearance should be obtained in connection with My Work or otherwise in connection with the subject matter of this Release; and (d) there are no other persons or entities entitled to any payments of any kind in connection with the rights and/or exploitation of My Work hereunder.</p>
+
+<p>
+I hereby release and discharge the Producer, the Copyright Owner, and their respective assignees from any and all claims and demands and will not assert, maintain or assist any party in asserting or maintaining any claims or demands against the Producer, the Copyright Owner, and their respective assignees, arising out of or in connection with My Work and the use of my voice, performance, images, name or likeness, including without limitation any and all claims for libel, invasion of privacy, rights of publicity, theft or misappropriation of ideas or trade secrets, or infringement of copyright and other intellectual property rights.
+
+</p>
+
+<p>
+I specifically understand and agree that the release contained in this agreement extends to all claims, whether or not presently matured, whether known or unknown, suspected or unsuspected, and further agree that such acknowledgment constitutes an essential and material term of this agreement. In that regard, I hereto expressly and voluntarily waive any and all rights and benefits conferred upon any of them by the provisions of California Civil Code Section 1542, or any similar provision of another state, which provides as follows:
+<p>
+
+  <p>
+A general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the release, which if known by him must have materially affected the settlement with the debtor.
+</p>
+
+<p>
+I acknowledge the significance and consequence of this agreement and of such specific waiver of Section 1542 and expressly consent that this Release shall be given full force and effect according to each and all of its express terms and provisions, including those relating to unknown and unsuspected claims, demands, obligations, and causes of action, if any.</p>
+
+<p>
+I acknowledge and understand that neither the Copyright Owner nor any of its affiliated entities is a sponsor of the ESB Uncut Project.
+I have read the foregoing and fully understand the contents thereof. This Release shall be binding upon me and my heirs, legal representatives and assigns.
+</p>
+</div>
+
+<div id="footer">
+  <div class="innards">
+    <div class="grad-bar"></div>
+    <div class="rights">TM & © 2012 Lucasfilm Ltd. All Rights Reserved. <br />Footage Courtesy of Lucasfilm.</div>
+    <ul class="nav">
+      <li><a href="/">Films</a></li>
+      <li><a href="/about">About</a></li>
+      <li><a href="http://eepurl.com/yD2Oj" target="_blank">Subscribe</a></li>
+      <li><a href="/faq">FAQ</a></li>
+      <li><a href="/rules">Rules</a></li>
+      <li><a href="/terms_of_service">Terms</a></a></li>
+      <li><a href="/privacy_policy">Privacy Policy</a></li>
+      <li><a href="/talent_release">Release</a></li>
+    </ul>
+    <div class="brought">
+      <div class="text"><span>Brought to you by</span></div>
+      <a href="http://vhx.tv" target="_blank"><img class="vhx" alt="VHX" src="http://files.starwarsuncut.com/assets/logo_vhx-4c2499777c9f34688cefc90360f6d26b.png"></a>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

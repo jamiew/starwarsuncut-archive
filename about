@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<!--
+
+ ____             ____    ______   ____    ____
+/\  _`\   /'\_/`\/\  _`\ /\__  _\ /\  _`\ /\  _`\
+\ \ \L\_\/\      \ \ \L\ \/_/\ \/ \ \ \L\ \ \ \L\_\
+ \ \  _\L\ \ \__\ \ \ ,__/  \ \ \  \ \ ,  /\ \  _\L
+  \ \ \L\ \ \ \_/\ \ \ \/    \_\ \__\ \ \\ \\ \ \L\ \
+   \ \____/\ \_\\ \_\ \_\    /\_____\\ \_\ \_\ \____/   __
+    \/___/  \/_/ \/_/\/_/    \/_____/ \/_/\/ /\/___/   /\ \__
+                         __  __    ___     ___   __  __\ \ ,_\
+                        /\ \/\ \ /' _ `\  /'___\/\ \/\ \\ \ \/
+                        \ \ \_\ \/\ \/\ \/\ \__/\ \ \_\ \\ \ \_
+                         \ \____/\ \_\ \_\ \____\\ \____/ \ \__\
+                          \/___/  \/_/\/_/\/____/ \/___/   \/__/
+
+-->
+<html>
+<head>
+  <title>Star Wars Uncut: The Empire Strikes Back</title>
+  <meta name="description" content="Star Wars Uncut is a crazy fan mashup remake of the original Star Wars movies. The saga continues with over 1500 participants re-imagining the classic Star Wars Episode V: The Empire Strikes Back.">
+  <meta name="keywords" content="star wars, star wars uncut, remix, mashup, video, crowdsourcing, crowdsource, fan remake, a new hope, empire strikes back">
+
+  <script type="text/javascript" charset="utf-8">
+    var logged_in = false,
+        current_user = false;
+  </script>
+
+  <link href="http://files.starwarsuncut.com/assets/application-abe03f33d476a3551248230eb3594cc4.css" media="all" rel="stylesheet" type="text/css" />
+  <script src="http://files.starwarsuncut.com/assets/application-4ce138fb013548e4d950313009153385.js" type="text/javascript"></script>
+  
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="18wxDZM/B3W3i8trtctOFmK3ViAt38sjxw1fiMk1YJE=" name="csrf-token" />
+  <script>
+    var logged_in = false;
+    var is_admin = false;
+  </script>
+  <meta property="og:type" content="website" />
+<meta property="fb:admins" content="casey,jamiemwilkinson" />
+<meta property="og:site_name" content="Star Wars Uncut" />
+<meta property="og:description" content="Fans from around the world are joining forces to recreate the classic, Star Wars Episode V: The Empire Strikes Back" />
+<meta property="og:email" content="support@starwarsuncut.com" />
+<meta property="fb:app_id" content="123595910986305"/>
+
+<meta property="og:title" content="Star Wars Uncut: The Empire Strikes Back" />
+<meta property="og:url" content="http://www.starwarsuncut.com" />
+<meta property="og:image" content="http://www.starwarsuncut.com/assets/swu_logo.png" />
+
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9684429-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body>
+
+<div class="header">
+  <ul class="nav">
+    <li><a href="/">Films</a></li>
+    <li><a href="/about">About</a></li>
+    <li><a href="http://eepurl.com/yD2Oj" target="_blank">Subscribe</a></li>
+    <li><a href="http://starwarsuncut.tumblr.com" target="_blank">Blog</a></li>
+    <li><a href="http://twitter.com/starwarsuncut" target="_blank">Twitter</a></li>
+    <li><a href="https://vimeo.com/63830672" target="_blank">Teaser</a></li>
+    
+  </ul>
+  <div class="login">
+    <div>
+      <span><a href="/login">Log in</a> or use</span> <a href="/auth/facebook" class="in"> </a>
+    </div>
+  </div>
+   <div class="social">
+        <div id="twitter"></div>
+      <div id="facebook"></div>
+    </div>
+    <div class="logo"><a href="/empire"><img alt="Empire_logo" src="http://files.starwarsuncut.com/assets/empire_logo-bb4e045e6b12ac33e60bdbd5a89ec868.png" /></a></div>
+    <div class="progress_txt"><span>100%</span> Complete</div>
+    <div class="progress">
+      <div class="complete" style="width:100%"></div>
+    </div>
+</div>
+<div class="header_height"></div>
+
+<div class="announcement">
+</div>
+
+<div class="bg" data-hd="http://files.starwarsuncut.com/assets/film_2/hd/460.jpg">
+  <div class="scene"></div>
+</div>
+<div class="grad-bar"></div>
+<div class="container subpage about">
+
+  <div class="sidebar">
+    <h2>Follow SWU!</h2>
+    <a href="http://twitter.com/starwarsuncut" target="_blank">@StarWarsUncut</a><br />
+    on
+    <a href="http://www.facebook.com/pages/Star-Wars-Uncut/174910934747" target="_blank">Facebook</a> <br />
+    or on our
+    <a href="http://starwarsuncut.tumblr.com" target="_blank">blog</a>!
+
+    <h2>What others are saying</h2>
+    A lot of wonderful stories have been written about our project. Here are some favorites.
+    <dl>
+      <dt>"An Emmy for Rebuilding a Galaxy"</dt>
+        <dd>- <a href="http://www.nytimes.com/2010/08/28/arts/television/28uncut.html">New York Times</a></dd>
+      <dt>"The Fan-Made Star Wars Uncut Is the Greatest Viral Video Ever"</dt>
+        <dd>- <a href="http://nymag.com/daily/entertainment/2012/01/fan-made-star-wars-recut-is-the-greatest-viral-video-ever.html">Vulture</a></dd>
+      <dt>"‘Star Wars Uncut’: The world remakes a classic"</dt>
+        <dd>- <a href="http://herocomplex.latimes.com/2010/08/26/star-wars-uncut-the-world-remakes-a-classic/">LA Times</a></dd>
+    <dt>&nbsp;</dt>
+<dd>&nbsp;</dd>
+  </dl>
+  </div>
+  <h1 class="page-title">About</h1>
+
+<p>Star Wars Uncut is a crazy fan mashup remake of the original Star Wars movies. It is the brainchild of <a href="http://twitter.com/caseypugh">Casey Pugh</a>, a developer dedicated to creating interactive experiences on the web. In 2009, Casey was inspired to use the Internet and an ever-ready pool of passionate Star Wars fans to crowdsource the classic film <em>Star Wars IV: A New Hope</em>. This pet project turned into a labor of love and creativity on a large scale. Nearly a thousand fans came together to participate and the resulting movie is equal parts fun, kooky, and dearly nostalgic.</p>
+
+<p><img class="emmy" src="http://files.starwarsuncut.com/assets/emmy-7403bf6eb8d3381da6a6a3d4013fc779.png"> Star Wars Uncut has been featured in documentaries, news features, and conferences around the world for its unique appeal - we thank everyone for making it such a special project. StarWarsUncut.com won a 2010 <a href="http://www.nytimes.com/2010/08/28/arts/television/28uncut.html">Primetime Emmy</a> for Outstanding Creative Achievement In Interactive Media - Fiction.</p>
+
+<p>We wanted to keep expanding the Uncut universe for <i>The Empire Strikes Back Uncut </i>, which launched in 2012 - and boy did the Jedis show up. We received almost 2,000 of the most creative fan submissions we'd ever seen. A team of 20 judges assembled to select their favorites, and the Director's Cut was edited to premiere on the official Star Wars site.</p>
+
+</div>
+
+<div id="footer">
+  <div class="innards">
+    <div class="grad-bar"></div>
+    <div class="rights">TM & © 2012 Lucasfilm Ltd. All Rights Reserved. <br />Footage Courtesy of Lucasfilm.</div>
+    <ul class="nav">
+      <li><a href="/">Films</a></li>
+      <li><a href="/about">About</a></li>
+      <li><a href="http://eepurl.com/yD2Oj" target="_blank">Subscribe</a></li>
+      <li><a href="/faq">FAQ</a></li>
+      <li><a href="/rules">Rules</a></li>
+      <li><a href="/terms_of_service">Terms</a></a></li>
+      <li><a href="/privacy_policy">Privacy Policy</a></li>
+      <li><a href="/talent_release">Release</a></li>
+    </ul>
+    <div class="brought">
+      <div class="text"><span>Brought to you by</span></div>
+      <a href="http://vhx.tv" target="_blank"><img class="vhx" alt="VHX" src="http://files.starwarsuncut.com/assets/logo_vhx-4c2499777c9f34688cefc90360f6d26b.png"></a>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

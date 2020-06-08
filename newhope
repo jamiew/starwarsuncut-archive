@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<!--
+
+ ____             ____    ______   ____    ____
+/\  _`\   /'\_/`\/\  _`\ /\__  _\ /\  _`\ /\  _`\
+\ \ \L\_\/\      \ \ \L\ \/_/\ \/ \ \ \L\ \ \ \L\_\
+ \ \  _\L\ \ \__\ \ \ ,__/  \ \ \  \ \ ,  /\ \  _\L
+  \ \ \L\ \ \ \_/\ \ \ \/    \_\ \__\ \ \\ \\ \ \L\ \
+   \ \____/\ \_\\ \_\ \_\    /\_____\\ \_\ \_\ \____/   __
+    \/___/  \/_/ \/_/\/_/    \/_____/ \/_/\/ /\/___/   /\ \__
+                         __  __    ___     ___   __  __\ \ ,_\
+                        /\ \/\ \ /' _ `\  /'___\/\ \/\ \\ \ \/
+                        \ \ \_\ \/\ \/\ \/\ \__/\ \ \_\ \\ \ \_
+                         \ \____/\ \_\ \_\ \____\\ \____/ \ \__\
+                          \/___/  \/_/\/_/\/____/ \/___/   \/__/
+
+-->
+<html>
+<head>
+  <title>Star Wars Uncut: A New Hope - Star Wars Uncut: The Empire Strikes Back</title>
+  <meta name="description" content="Star Wars Uncut is a crazy fan mashup remake of the original Star Wars movies. The saga continues with over 1500 participants re-imagining the classic Star Wars Episode V: The Empire Strikes Back.">
+  <meta name="keywords" content="star wars, star wars uncut, remix, mashup, video, crowdsourcing, crowdsource, fan remake, a new hope, empire strikes back">
+
+  <script type="text/javascript" charset="utf-8">
+    var logged_in = false,
+        current_user = false;
+  </script>
+
+  <link href="http://files.starwarsuncut.com/assets/application-abe03f33d476a3551248230eb3594cc4.css" media="all" rel="stylesheet" type="text/css" />
+  <script src="http://files.starwarsuncut.com/assets/application-4ce138fb013548e4d950313009153385.js" type="text/javascript"></script>
+  
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="18wxDZM/B3W3i8trtctOFmK3ViAt38sjxw1fiMk1YJE=" name="csrf-token" />
+  <script>
+    var logged_in = false;
+    var is_admin = false;
+  </script>
+  <meta property="og:type" content="website" />
+<meta property="fb:admins" content="casey,jamiemwilkinson" />
+<meta property="og:site_name" content="Star Wars Uncut" />
+<meta property="og:description" content="Fans from around the world are joining forces to recreate the classic, Star Wars Episode V: The Empire Strikes Back" />
+<meta property="og:email" content="support@starwarsuncut.com" />
+<meta property="fb:app_id" content="123595910986305"/>
+
+<meta property="og:title" content="Star Wars Uncut: The Empire Strikes Back" />
+<meta property="og:url" content="http://www.starwarsuncut.com" />
+<meta property="og:image" content="http://www.starwarsuncut.com/assets/swu_logo.png" />
+
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9684429-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body>
+
+<div class="header">
+  <ul class="nav">
+    <li><a href="/">Films</a></li>
+    <li><a href="/about">About</a></li>
+    <li><a href="http://eepurl.com/yD2Oj" target="_blank">Subscribe</a></li>
+    <li><a href="http://starwarsuncut.tumblr.com" target="_blank">Blog</a></li>
+    <li><a href="http://twitter.com/starwarsuncut" target="_blank">Twitter</a></li>
+    <li><a href="https://vimeo.com/63830672" target="_blank">Teaser</a></li>
+    
+  </ul>
+  <div class="login">
+    <div>
+      <span><a href="/login">Log in</a> or use</span> <a href="/auth/facebook" class="in"> </a>
+    </div>
+  </div>
+   <div class="social">
+        <div id="twitter"></div>
+      <div id="facebook"></div>
+    </div>
+    <div class="logo newhope"><a href="/newhope"><img alt="Newhope_logo" src="http://files.starwarsuncut.com/assets/newhope_logo-ef73a2d920a782b64f8a5e56715bc191.png" /></a></div>
+    <div class="progress_txt"><span>100%</span> Complete</div>
+    <div class="progress newhope">
+      <div class="complete"></div>
+    </div>
+</div>
+<div class="header_height"></div>
+
+<div class="announcement">
+</div>
+
+<div id='newhope-page'>
+<iframe class="film" width="900" height="550" src="http://player.vimeo.com/video/34948855?portrait=0" frameborder="0" allowfullscreen></iframe>
+<div class='content'>
+<div class='sidebar'>
+<h2>Follow SWU!</h2>
+<a href='http://twitter.com/starwarsuncut'>@StarWarsUncut <br></a>
+on
+<a href='http://www.facebook.com/pages/Star-Wars-Uncut/174910934747'>Facebook <br></a>
+or on
+<a href='http://starwarsuncut.tumblr.com'>starwarsuncut.tumblr.com</a>
+<p>
+We even have a theme song by Adam WarRock!
+<a href='http://adamwarrock.bandcamp.com/track/star-wars-uncut-bonus-track'>Get it here!</a>
+</p>
+<p>
+Video available on
+<a href='http://vimeo.com/34948855'>Vimeo</a>
+and
+<a href='http://www.youtube.com/watch?feature=player_embedded&amp;v=7ezeYJUz-84'>YouTube</a>
+</p>
+<h2>A New Hope Uncut Team</h2>
+<a href='http://twitter.com/caseypugh' target='_blank'>Casey,</a>
+<a href='http://jamiedubs.com' target='_blank'>Jamie,</a>
+<a href='http://chadpugh.com' target='_blank'>Chad,</a>
+<a href='http://www.annelisepruitt.com/' target='_blank'>Annelise,</a>
+<a href='http://justin.hanney.net' target='_blank'>Justin,</a>
+<a href='http://aaronvaldez.com' target='_blank'>Aaron,</a>
+and
+<a href='http://pughtube.com' target='_blank'>Bryan</a>
+</div>
+<div class='main'>
+<h2>The Star Wars Uncut Original Story</h2>
+<p><em>A long time ago in a galaxy far, far away...</em></p>
+<p>In 2009, Casey Pugh asked Internet users to remake <em>Star Wars Episode IV: A New Hope</em> into a fan film, 15 seconds at a time. In a few months time, thousands of fans responded with extraordinary creativity from around the world.</p>
+<p>Star Wars Uncut has been featured in documentaries, news features and conferences around the world for its unique appeal. In 2010 we won a Primetime Emmy for Outstanding Creative Achievement In Interactive Media.</p>
+<p>Finally, the crowd-sourced project has been stitched together and put online for your streaming pleasure. The "Director's Cut" is a feature-length film that contains hand-picked scenes from the entire StarWarsUncut.com collection.</p>
+<p>Many thanks to <a href="http://www.aaronvaldez.com">Aaron Valdez</a> (video editor) and <a href="http://bryanpugh.me">Bryan Pugh</a> (sound design/mixing) for the countless hours they put into this masterpiece. We can't thank everyone enough for making this such a special project.</p>
+</div>
+</div>
+<h1>Credits</h1>
+<ul class='cast_list'>
+<li>766 Films</li>
+<li>796 entertainment</li>
+<li>Aaron Klepfer</li>
+<li>Aaron Lesch</li>
+<li>adrian dixon</li>
+<li>Aitor Uria</li>
+<li>Alan Iverson</li>
+<li>Alejandro Cordón</li>
+<li>Alex Hennessey</li>
+<li>alex may</li>
+<li>Alex Tatusian</li>
+<li>Alexander Taylor</li>
+<li>Alisa Karchemsky</li>
+<li>alpha thirteen</li>
+<li>Ambition Cinema</li>
+<li>Amelia Stephensen</li>
+<li>Andrew Buttery</li>
+<li>Andrew Iwancio</li>
+<li>Andrew Myren</li>
+<li>Andrew Nicolson</li>
+<li>Andrew Shellshear</li>
+<li>Andrew Willetts</li>
+<li>Andy Blum</li>
+<li>Andy Trevino</li>
+<li>Anthony Burch</li>
+<li>Anton Eicher</li>
+<li>Anya Arthur</li>
+<li>aram bartholl</li>
+<li>Álvaro Éfe</li>
+<li>B Tony</li>
+<li>babycakes romero</li>
+<li>BaronMunchausen</li>
+<li>beaux latham</li>
+<li>Becca Kelly</li>
+<li>Ben Hallert</li>
+<li>BEN JACQUES</li>
+<li>Ben Joseph</li>
+<li>ben nash</li>
+<li>Ben Sneldon</li>
+<li>Benito Romanach</li>
+<li>beshart</li>
+<li>Bingo Master</li>
+<li>Bjoern Hansen</li>
+<li>Blake Ruimte</li>
+<li>Blake Whitman</li>
+<li>boli</li>
+<li>booce</li>
+<li>Brady Wurtz</li>
+<li>Brandon Parod</li>
+<li>Brian Dixon</li>
+<li>Brian Erb</li>
+<li>brian federico</li>
+<li>Brian Keith</li>
+<li>Brock LaBorde</li>
+<li>bunnyfluxx</li>
+<li>Camille Snyder</li>
+<li>Cari Turley</li>
+<li>Carlo Guillot</li>
+<li>Carlos Santiago</li>
+<li>Cartoonguy11</li>
+<li>Casey Pugh</li>
+<li>Chad Whitaker</li>
+<li>Charc Coalenaar</li>
+<li>Charles London</li>
+<li>Charlie Ess</li>
+<li>Charlie McCarron</li>
+<li>Chase Stewart</li>
+<li>Chris Brown</li>
+<li>Chris Chen</li>
+<li>chris dragan</li>
+<li>Chris Hogan</li>
+<li>Chris Paluszek</li>
+<li>Chris Royer</li>
+<li>chris stapp</li>
+<li>chrisrada</li>
+<li>christian wischnewski</li>
+<li>Christopher Salaises</li>
+<li>Chuck Ozeas</li>
+<li>cine31</li>
+<li>Clark Bradshaw</li>
+<li>Clemens Niel</li>
+<li>clint enns</li>
+<li>Connor Baxter</li>
+<li>Craig Gleason</li>
+<li>Craig Simmons</li>
+<li>crystal fontan</li>
+<li>cwnation</li>
+<li>Dae Mellencamp</li>
+<li>Dan DeCarlo</li>
+<li>Dan Mancera</li>
+<li>Dan Meltzer</li>
+<li>Dan Warner</li>
+<li>Daniel Earwicker</li>
+<li>Daniel Lawrance</li>
+<li>Darth Angelus</li>
+<li>David Dingrando</li>
+<li>David Gibson</li>
+<li>David Hawdale</li>
+<li>David Morris</li>
+<li>David Peterson</li>
+<li>David Wright</li>
+<li>Davis</li>
+<li>davo</li>
+<li>Demetrea Triantafillides</li>
+<li>Dennis Ryan</li>
+<li>Diarmaid Hanly</li>
+<li>DoctorEntertainment</li>
+<li>Don Colliver</li>
+<li>Douglas Einar</li>
+<li>Drew Saleen</li>
+<li>Drock</li>
+<li>dud nico</li>
+<li>Duncan Craig</li>
+<li>Dylan Hamilton</li>
+<li>Eckavolts</li>
+<li>Ed Bear</li>
+<li>Eduardo Cuervo</li>
+<li>eerie.t</li>
+<li>Eliel Fernandes</li>
+<li>Elina Arponen</li>
+<li>Elizabeth Laura</li>
+<li>Em T</li>
+<li>emanuel</li>
+<li>Emil Johansen</li>
+<li>Engekiman</li>
+<li>Episk Productions</li>
+<li>Erica Gorochow</li>
+<li>Erich U</li>
+<li>Errol Schwartz</li>
+<li>essforgee</li>
+<li>Euralis Weekes</li>
+<li>evan lopez</li>
+<li>Family Robot</li>
+<li>fashionbuddha</li>
+<li>fayleinos</li>
+<li>Felix Avery</li>
+<li>Flight 33</li>
+<li>foba</li>
+<li>Found Object Films</li>
+<li>Frank Harmon</li>
+<li>gballen</li>
+<li>Genki Max</li>
+<li>Geoff Blum</li>
+<li>ghent ooo</li>
+<li>Gilles O'Kane</li>
+<li>Gio Quinn</li>
+<li>Good Kat</li>
+<li>Greg Granito</li>
+<li>Gregory Foyle</li>
+<li>Gregory Nemec</li>
+<li>Grytpype</li>
+<li>Guilherme Briggs</li>
+<li>Harley Viveash</li>
+<li>harry ingham</li>
+<li>Hector Lowe</li>
+<li>Hei Nguyen</li>
+<li>Henry Alexander</li>
+<li>Henry Burrows</li>
+<li>holden hardcastle</li>
+<li>Hugh Rodman</li>
+<li>igor petrov</li>
+<li>Ines M P</li>
+<li>Installation Shoe Gallery</li>
+<li>IreneFace</li>
+<li>J</li>
+<li>J Elford</li>
+<li>Jack Fuller</li>
+<li>Jacob Borshard</li>
+<li>Jacob Henderson</li>
+<li>jake graff</li>
+<li>jamaic</li>
+<li>James Holloway</li>
+<li>Jamie Dubs</li>
+<li>Jamie White</li>
+<li>Jane Westrick</li>
+<li>Jared Watkins</li>
+<li>Jason dee</li>
+<li>Jason Garrattley</li>
+<li>Jason Giaccone</li>
+<li>Jason Lopez</li>
+<li>Jason Mills</li>
+<li>jasonrouse</li>
+<li>jayson Palmer</li>
+<li>Jeff Taylor</li>
+<li>Jeff Whitworth</li>
+<li>jeffry fridfinnson</li>
+<li>Jen Proctor</li>
+<li>Jenn Zuko Boughn</li>
+<li>Jennifer Tullis</li>
+<li>Jeremy Doyel</li>
+<li>Jeremy Fried</li>
+<li>Jeremy Schultz</li>
+<li>Jeremy Smedes</li>
+<li>Jerry Harmon</li>
+<li>Jim Christie</li>
+<li>Jim Morton</li>
+<li>Joe Keiser</li>
+<li>Joe Mellin</li>
+<li>Joe Pfeister</li>
+<li>Joe R</li>
+<li>Joe Rahman</li>
+<li>John Frosst</li>
+<li>John Grieve</li>
+<li>John Hill-Daniel</li>
+<li>John Howard</li>
+<li>john kinsella</li>
+<li>John Martz</li>
+<li>John Moncrief</li>
+<li>Jon Powell</li>
+<li>Jonathan Higdon</li>
+<li>Jonathon Wiggins</li>
+<li>Joonas Kesäniemi</li>
+<li>Jordan Scannella</li>
+<li>Jordy Anderson</li>
+<li>Jorge Alvarez</li>
+<li>Joseph Broschart</li>
+<li>Joseph Lee</li>
+<li>Joshua Menas</li>
+<li>julien babel</li>
+<li>Justin Dykhouse</li>
+<li>justin hartough</li>
+<li>Kael McDonald</li>
+<li>Karen Joyce</li>
+<li>Keith Browne</li>
+<li>kent meloy</li>
+<li>kevin knudson</li>
+<li>Kirk Fields</li>
+<li>klause geist</li>
+<li>Kristin Walter</li>
+<li>Leo Garza</li>
+<li>Leslie Supnet</li>
+<li>lewis sh</li>
+<li>Liam Capper-Starr</li>
+<li>Liam Royce</li>
+<li>Linkmon</li>
+<li>Lisa Winter</li>
+<li>Liz Spiers</li>
+<li>LoadingReadyRun</li>
+<li>Lucas Hardi</li>
+<li>M. Schramm</li>
+<li>Malcolm Sutherland</li>
+<li>Maltron</li>
+<li>Manuel Stimmer</li>
+<li>marc molenaar</li>
+<li>Marc Tyler</li>
+<li>Marie Drennan</li>
+<li>Mark Greenberg</li>
+<li>marko verimaa</li>
+<li>Marlu Groen</li>
+<li>Martin Lehman</li>
+<li>martoon</li>
+<li>Marty Gleason</li>
+<li>Mary Matthews</li>
+<li>Matt Dolnik</li>
+<li>Matt Flegg</li>
+<li>Matt P.</li>
+<li>Matt Pyers</li>
+<li>Matthew Glidden</li>
+<li>Matthew Shepherd</li>
+<li>mattmatt</li>
+<li>Maxwell Pacheco</li>
+<li>Megan Every</li>
+<li>Michael Dore</li>
+<li>Michael Douglas</li>
+<li>Michael Hindhaugh</li>
+<li>Michael MacCubbin</li>
+<li>Michael Scadron</li>
+<li>Michelle Lapeyre</li>
+<li>Mike Fatum</li>
+<li>mike geiger animation</li>
+<li>Mike Rohlfing</li>
+<li>mike winter</li>
+<li>minus mitchell</li>
+<li>Miriam Diaz</li>
+<li>Mister Kite</li>
+<li>Mo Kudeki</li>
+<li>Mojo Goods</li>
+<li>Morgan Miller</li>
+<li>Mother Pugh</li>
+<li>Nate S</li>
+<li>Neal Lauri</li>
+<li>Neil Smith</li>
+<li>Nicholas Ponzio</li>
+<li>Nick Monger</li>
+<li>Nigel Upchurch</li>
+<li>Nirav Patel</li>
+<li>Noelix</li>
+<li>Nolan Fellows</li>
+<li>nooneimportant</li>
+<li>numan ahmed</li>
+<li>Odin</li>
+<li>oemiv2009</li>
+<li>Ollie Kuhn-Wilken</li>
+<li>Oscar Triana</li>
+<li>Otter DW</li>
+<li>Pablo Davanzo</li>
+<li>pablo grr</li>
+<li>Paisley Mares</li>
+<li>Pander Loki</li>
+<li>Paolo Valente</li>
+<li>Patrick Currier</li>
+<li>Patrick Hall</li>
+<li>Patrick Lifinsure</li>
+<li>Paul DiMatteo</li>
+<li>Paul Hargrave</li>
+<li>Paul Malden</li>
+<li>Paul Rowley</li>
+<li>Pete Barry</li>
+<li>Phil Brough</li>
+<li>Phil Browne</li>
+<li>Phil D.</li>
+<li>Phil Rice</li>
+<li>Philip Frey</li>
+<li>Piers Beckley</li>
+<li>Pietr Buttelmann</li>
+<li>pilkro</li>
+<li>Pineapple Pictures</li>
+<li>Polap Studios</li>
+<li>Pony R. Horton</li>
+<li>Pretty Grizzly</li>
+<li>Quark SFF</li>
+<li>r2witco</li>
+<li>RagTag Pwner</li>
+<li>Rather Childish</li>
+<li>Reece Passchier</li>
+<li>Reece Walton</li>
+<li>Rhonda Friberg</li>
+<li>Rick Bray</li>
+<li>Ricky Marrero</li>
+<li>rob carraher</li>
+<li>Rob Currie</li>
+<li>Robert Tokar</li>
+<li>Robert van de Beek</li>
+<li>Robert ZImmermann</li>
+<li>Roman Schmid</li>
+<li>RufusB</li>
+<li>Ryan Hrovat</li>
+<li>Ryan Ortgiesen</li>
+<li>Sam Vest</li>
+<li>Samonkeyuk</li>
+<li>Sap</li>
+<li>sarah schneider</li>
+<li>SBoucher</li>
+<li>Sean Dowd</li>
+<li>Sergio Martínez</li>
+<li>seth cudney</li>
+<li>Shannon Galvin</li>
+<li>Shawn Wallace</li>
+<li>Simon de la Rouviere</li>
+<li>Simon Guyomard</li>
+<li>Simon Lee</li>
+<li>Skevos Mavros</li>
+<li>skobbejak</li>
+<li>Snook & Annis</li>
+<li>Sophia Dawson</li>
+<li>Spinning Blade</li>
+<li>Stacy Davidson</li>
+<li>stéphane custers</li>
+<li>Stephan Neofitou</li>
+<li>Stephen Niebauer</li>
+<li>Steve Concotelli</li>
+<li>Steve Hammond</li>
+<li>Steve Lyons</li>
+<li>Steve O'Donnell</li>
+<li>Steve Webber</li>
+<li>Stu Harrison</li>
+<li>Stuart Cloete</li>
+<li>Superkill Studios</li>
+<li>tagboard</li>
+<li>Tasso Susvid</li>
+<li>TD Paulat</li>
+<li>Tenfresh</li>
+<li>TenTen71</li>
+<li>terence dunne</li>
+<li>tharkun</li>
+<li>thefergusonbrothers</li>
+<li>@the_jawa</li>
+<li>THX 1138 4EB</li>
+<li>Tiger Cavill</li>
+<li>Tim Pattison</li>
+<li>Tim Weilert</li>
+<li>Tim Wood</li>
+<li>Todd Kurtzer</li>
+<li>Todd Wilkins</li>
+<li>Toeb</li>
+<li>Tok Snave</li>
+<li>Tom Matuszewski</li>
+<li>Tom Randolph</li>
+<li>Tom Smith</li>
+<li>Tommy Robin</li>
+<li>tommy stanton</li>
+<li>Tomo K</li>
+<li>Tracy Lind</li>
+<li>Travis Young</li>
+<li>Unfinished Productions</li>
+<li>uschi obermaier</li>
+<li>Valtteri Mäki</li>
+<li>VideoYEAH</li>
+<li>Ville Konttinen</li>
+<li>Walter Elly</li>
+<li>Wayne Haarbye</li>
+<li>Wedge Antilles</li>
+<li>Will Jardine</li>
+<li>William Wrixon</li>
+<li>WM Thing</li>
+<li>Wray Bowling</li>
+<li>Zac</li>
+<li>Zach Brady</li>
+</ul>
+</div>
+
+
+
+</body>
+</html>

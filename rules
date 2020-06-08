@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<!--
+
+ ____             ____    ______   ____    ____
+/\  _`\   /'\_/`\/\  _`\ /\__  _\ /\  _`\ /\  _`\
+\ \ \L\_\/\      \ \ \L\ \/_/\ \/ \ \ \L\ \ \ \L\_\
+ \ \  _\L\ \ \__\ \ \ ,__/  \ \ \  \ \ ,  /\ \  _\L
+  \ \ \L\ \ \ \_/\ \ \ \/    \_\ \__\ \ \\ \\ \ \L\ \
+   \ \____/\ \_\\ \_\ \_\    /\_____\\ \_\ \_\ \____/   __
+    \/___/  \/_/ \/_/\/_/    \/_____/ \/_/\/ /\/___/   /\ \__
+                         __  __    ___     ___   __  __\ \ ,_\
+                        /\ \/\ \ /' _ `\  /'___\/\ \/\ \\ \ \/
+                        \ \ \_\ \/\ \/\ \/\ \__/\ \ \_\ \\ \ \_
+                         \ \____/\ \_\ \_\ \____\\ \____/ \ \__\
+                          \/___/  \/_/\/_/\/____/ \/___/   \/__/
+
+-->
+<html>
+<head>
+  <title>Rules - Empire Strikes Back: Uncut - Star Wars Uncut: The Empire Strikes Back</title>
+  <meta name="description" content="Star Wars Uncut is a crazy fan mashup remake of the original Star Wars movies. The saga continues with over 1500 participants re-imagining the classic Star Wars Episode V: The Empire Strikes Back.">
+  <meta name="keywords" content="star wars, star wars uncut, remix, mashup, video, crowdsourcing, crowdsource, fan remake, a new hope, empire strikes back">
+
+  <script type="text/javascript" charset="utf-8">
+    var logged_in = false,
+        current_user = false;
+  </script>
+
+  <link href="http://files.starwarsuncut.com/assets/application-abe03f33d476a3551248230eb3594cc4.css" media="all" rel="stylesheet" type="text/css" />
+  <script src="http://files.starwarsuncut.com/assets/application-4ce138fb013548e4d950313009153385.js" type="text/javascript"></script>
+  
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="18wxDZM/B3W3i8trtctOFmK3ViAt38sjxw1fiMk1YJE=" name="csrf-token" />
+  <script>
+    var logged_in = false;
+    var is_admin = false;
+  </script>
+  <meta property="og:type" content="website" />
+<meta property="fb:admins" content="casey,jamiemwilkinson" />
+<meta property="og:site_name" content="Star Wars Uncut" />
+<meta property="og:description" content="Fans from around the world are joining forces to recreate the classic, Star Wars Episode V: The Empire Strikes Back" />
+<meta property="og:email" content="support@starwarsuncut.com" />
+<meta property="fb:app_id" content="123595910986305"/>
+
+<meta property="og:title" content="Star Wars Uncut: The Empire Strikes Back" />
+<meta property="og:url" content="http://www.starwarsuncut.com" />
+<meta property="og:image" content="http://www.starwarsuncut.com/assets/swu_logo.png" />
+
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9684429-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body>
+
+<div class="header">
+  <ul class="nav">
+    <li><a href="/">Films</a></li>
+    <li><a href="/about">About</a></li>
+    <li><a href="http://eepurl.com/yD2Oj" target="_blank">Subscribe</a></li>
+    <li><a href="http://starwarsuncut.tumblr.com" target="_blank">Blog</a></li>
+    <li><a href="http://twitter.com/starwarsuncut" target="_blank">Twitter</a></li>
+    <li><a href="https://vimeo.com/63830672" target="_blank">Teaser</a></li>
+    
+  </ul>
+  <div class="login">
+    <div>
+      <span><a href="/login">Log in</a> or use</span> <a href="/auth/facebook" class="in"> </a>
+    </div>
+  </div>
+   <div class="social">
+        <div id="twitter"></div>
+      <div id="facebook"></div>
+    </div>
+    <div class="logo"><a href="/empire"><img alt="Empire_logo" src="http://files.starwarsuncut.com/assets/empire_logo-bb4e045e6b12ac33e60bdbd5a89ec868.png" /></a></div>
+    <div class="progress_txt"><span>100%</span> Complete</div>
+    <div class="progress">
+      <div class="complete" style="width:100%"></div>
+    </div>
+</div>
+<div class="header_height"></div>
+
+<div class="announcement">
+</div>
+
+<div class="bg" data-hd="http://files.starwarsuncut.com/assets/film_2/hd/088.jpg">
+  <div class="scene"></div>
+</div>
+<div class="grad-bar"></div>
+<div class="container subpage faq">
+  <img class="illo" src="http://files.starwarsuncut.com/assets/illo_r2d2-a138740816923bc92ef0133310bf3b0b.png">
+  <h1 class="page-title">Rules & Guidelines</h1>
+  In order to keep Star Wars Uncut awesome and ready for the big screen, we request that you make your scene...
+	<br /><br />
+  <ul>
+    <li class="question">Original</li>
+    <li class="answer">You may only upload videos you yourself have made. This is your time to be creative! Do not include 3rd party brands or content. We all love [insert product here], but we don&#x27;t want to get sued over it.</li>
+    <li class="question">In 30 Days.</li>
+    <li class="answer">After accepting your scene, you have 30 days (720 hours) to complete and upload it.</li>
+    <li class="question">Without the original audio</li>
+    <li class="answer">This includes the original Star Wars audio track...part of the fun is making the audio yourself! We will be adding in the soundtrack in the final cut. </li>
+    <li class="question">OK for the kids.</li>
+    <li class="answer">Please, no sexually explicit videos or derogatory language.</li>
+    <li class="question">HD</li>
+    <li class="answer">Try to shoot and upload your video in the highest quality possible. 16:9 format is preferred.</li>
+    <li class="question">Precise</li>
+    <li class="answer">Each scene is 15 seconds, so let&#x27;s try to keep it exact. Going over or under a few seconds is fine. Make sure the beginning and end of your scene matches up closely to the original. That way, the final piece will be smoother than Jabba&#x27;s backside.</li>
+    <li class="question">FUN!</li>
+    <li class="answer">This is your moment in the Star Wars sun. This project comes from the fans and will be as great as our collective minds create it. Pull out all the bells and whistles and probe droids.</li>
+  </ul>
+	<br />
+	Remember, if you break any of these guidelines your scene will not be considered in the final cut. 
+</div>
+
+<div id="footer">
+  <div class="innards">
+    <div class="grad-bar"></div>
+    <div class="rights">TM & © 2012 Lucasfilm Ltd. All Rights Reserved. <br />Footage Courtesy of Lucasfilm.</div>
+    <ul class="nav">
+      <li><a href="/">Films</a></li>
+      <li><a href="/about">About</a></li>
+      <li><a href="http://eepurl.com/yD2Oj" target="_blank">Subscribe</a></li>
+      <li><a href="/faq">FAQ</a></li>
+      <li><a href="/rules">Rules</a></li>
+      <li><a href="/terms_of_service">Terms</a></a></li>
+      <li><a href="/privacy_policy">Privacy Policy</a></li>
+      <li><a href="/talent_release">Release</a></li>
+    </ul>
+    <div class="brought">
+      <div class="text"><span>Brought to you by</span></div>
+      <a href="http://vhx.tv" target="_blank"><img class="vhx" alt="VHX" src="http://files.starwarsuncut.com/assets/logo_vhx-4c2499777c9f34688cefc90360f6d26b.png"></a>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
